@@ -12,5 +12,3 @@ This GitHub repository showcases the application of Natural Language Processing 
   5. KNN Classification
   6. Random Forest
   7. Single Layer Neural Networks.
-
-Explore how NLP techniques can be leveraged for sentiment analysis in financial contexts and prediction of stock movements using machine learning algorithms.
