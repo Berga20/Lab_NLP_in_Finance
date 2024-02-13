@@ -1,4 +1,4 @@
-# Lab_NLP_in_Finance
+# Lab NLP in Finance
 
 This GitHub repository showcases the application of Natural Language Processing (NLP) in finance through sentiment analysis. The project consists of two notebooks. 
 
